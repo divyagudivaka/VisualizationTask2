@@ -19,6 +19,6 @@ Create a compelling data story using visualizations on Superstore sales data.
 - Technology category is most profitable
 
 ## Files Included:
-- Superstore.csv
+- SuperstoreTask2.csv(dataset downloaded from kaggle)
 - Visualization (PDF containing screenshots)
 - This README.md
